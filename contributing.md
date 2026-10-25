@@ -194,3 +194,5 @@ any stored ban record.
 ---
 
 *cyberpunk-2077-base · Updated 2026-10-25 · Shared under the MIT License*
+
+<!-- last reviewed 2026-10-25 -->
